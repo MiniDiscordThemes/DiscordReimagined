@@ -1,0 +1,14 @@
+# Folders
+/bundle
+/dist
+/node_modules
+/preview
+
+# File types
+*.md
+*.min.css
+*.theme.css
+
+# Files
+LICENSE
+pnpm-lock.yaml

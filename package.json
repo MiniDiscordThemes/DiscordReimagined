@@ -1,8 +1,8 @@
 {
-	"name": "template-discord-theme",
-	"version": "1.0.0",
-	"description": "A template Discord theme for multiple client mod support.",
-	"repository": "github:MiniDiscordThemes/Template",
+	"name": "discordreimagined-discord-theme",
+	"version": "1.1.1",
+	"description": "A Discord theme based on 'Discord Re-imagined (Concept)' by Concept Central: https://www.youtube.com/watch?v=7gyZyg3jC2w.",
+	"repository": "github:MiniDiscordThemes/DiscordReimagined",
 	"author": "Saltssaumure <themes@saltssaumure.net>",
 	"license": "MIT",
 	"private": true,

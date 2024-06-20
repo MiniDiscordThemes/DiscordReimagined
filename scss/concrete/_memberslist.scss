@@ -1,0 +1,19 @@
+@use "../mixins" as *;
+
+// Members list
+.container_cbd271 {
+	@include hoist;
+
+	// Role header
+	.membersGroup_cbd271 {
+		$margin: 8px;
+		background: var(--background-secondary-alt);
+		border-radius: 4px;
+		margin: $margin;
+		margin-right: 0;
+		height: 40px - $margin;
+		line-height: 40px - $margin;
+		padding: 0;
+		text-align: center;
+	}
+}

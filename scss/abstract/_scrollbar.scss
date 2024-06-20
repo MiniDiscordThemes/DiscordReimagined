@@ -1,0 +1,9 @@
+// Scrollbar
+.auto_c49869 {
+	&:not(:hover) {
+		&::-webkit-scrollbar-thumb,
+		&::-webkit-scrollbar-track {
+			background-color: transparent;
+		}
+	}
+}

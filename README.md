@@ -1,5 +1,5 @@
-[preview]:          https://minidiscordthemes.github.io/Snippets/DiscordReimagined/preview/preview.png
-[previewColor]:     https://minidiscordthemes.github.io/Snippets/DiscordReimagined/preview/preview-systemcolor.png
+[preview]:          https://minidiscordthemes.github.io/DiscordReimagined/preview/preview.png
+[previewColor]:     https://minidiscordthemes.github.io/DiscordReimagined/preview/preview-systemcolor.png
 [SystemColor]:      https://github.com/MiniDiscordThemes/SystemColor
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value

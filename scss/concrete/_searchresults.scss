@@ -1,0 +1,6 @@
+@use "../mixins" as *;
+
+// Search results
+.searchResultsWrap_c2b47d {
+	@include hoist;
+}

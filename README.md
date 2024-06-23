@@ -51,6 +51,8 @@
 2. Place the file in the themes folder:
     - `Settings` > `BetterDiscord` > `Themes` > `Open Themes Folder`
 3. Toggle on the theme card.
+
+BetterDiscord installations do not include HorizontalServerList by default. Get the file separately from [BetterDiscord](https://betterdiscord.app/theme/?id=124), then add the contents of [hslcompat](./scss/_hslcompat.scss) to the theme file or Custom/Quick CSS.
 </details>
 
 ### [Replugged][Replugged]
@@ -80,6 +82,8 @@
 #### Online
 1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
     - `https://minidiscordthemes.github.io/DiscordReimagined/DiscordReimagined.theme.css`
+
+Vencord installations do not include HorizontalServerList by default. Get the file separately from [BetterDiscord](https://betterdiscord.app/theme/?id=124), then add the contents of [hslcompat](./scss/_hslcompat.scss) to the theme file or Custom/Quick CSS.
 </details>
 
 ## Customisation

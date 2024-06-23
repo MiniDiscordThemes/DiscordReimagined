@@ -1,6 +1,4 @@
-// @import url("https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.theme.css");
-
-// HSL unread pips
+/* HorizontalServerList unread pips */
 #app-mount#app-mount .guilds_a4d4d9 [class*="pill"] {
 	transform: rotate(270deg) translateY(50%);
 	top: unset !important;
